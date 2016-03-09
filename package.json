@@ -1,0 +1,24 @@
+{
+  "name": "reticulating-splines",
+  "version": "1.0.0",
+  "description": "The best loading messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holmesal/reticulating-splines.git"
+  },
+  "keywords": [
+    "loading",
+    "reticulating",
+    "splines"
+  ],
+  "author": "Alonso Holmes <hello@alonso.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holmesal/reticulating-splines/issues"
+  },
+  "homepage": "https://github.com/holmesal/reticulating-splines#readme"
+}
