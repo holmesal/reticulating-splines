@@ -68,7 +68,7 @@ var messages = [
 	"Overconstraining Dirty Industry Calculations",
 	"Partitioning City Grid Singularities",
 	"Perturbing Matrices",
-	"Pixalating Nude Patch",
+	"Pixelating Nude Patch",
 	"Polishing Water Highlights",
 	"Populating Lot Templates",
 	"Preparing Sprites for Random Walks",
